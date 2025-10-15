@@ -263,6 +263,9 @@ LAB04
 <img width="619" height="286" alt="validator 2" src="https://github.com/user-attachments/assets/41a93ee3-9ee6-48ce-a42f-54648ef447a7" />
 <img width="567" height="55" alt="validator 3" src="https://github.com/user-attachments/assets/a15f6b0a-7397-4866-8f4e-0690771c9d26" />
 
+[lab05 work 2.html](https://github.com/user-attachments/files/22915392/lab05.work.2.html)
+[lab05 work.css](https://github.com/user-attachments/files/22915393/lab05.work.css)<img width="1872" height="93" alt="VALIDATOR FOR LAB05" src="https://github.com/user-attachments/assets/8a3b60bb-ad64-4d4e-8411-cb11e5fa824a" />
+<img width="638" height="88" alt="validator for lab05 2" src="https://github.com/user-attachments/assets/b20f7e93-337f-495b-9895-44d8dc477921" />
 
 
 
