@@ -1,4 +1,6 @@
-DOCTYPEbodyheadpstyle stylelink href refstyle stylepfont sizestyle stylehead headbodybodyp {
+DOCTYPE
+bodyheadpstyle 
+stylelink href refstyle stylepfont sizestyle stylehead headbodybodyp {
 	color: yellow;
 }
 bodyfont-family font-familybodydiv id myUniqueElementcolorfont sizedivp class > highlight this.hightlight >color greenfont-weight bold>bodyhead.flex-containerdisplay flexflex-direction row /* or column */
@@ -12,6 +14,7 @@ classdiv class item Content Item divdiv class item Content Item divdiv class ite
 bodyfont-sizebackground-color lightblue
  
 }
+
 
 
 
